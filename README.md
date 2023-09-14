@@ -10,14 +10,15 @@
 class Savage23
   def initialize
     @Discord = "ilvvvx"
-    @Instagram = "https://instagram.com/lonley.ida"
+    @Instagram = "https://instagram.com/iluvmissu_"
     @ask_me_about = ["Web Development", "Discord", "IoT"]
   end
 
   def contact
     email = "23eternalenvy@proton.me"
-    website = "blank" 
-    return email
+    website = "blank"
+    instagram = "iluvmissu_"
+    return email, website, instagram
   end
 end
 
