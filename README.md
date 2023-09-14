@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/vQcHyA4.jpeg" width="55%">
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/23Savagee/23Savagee/main/assets/logo.gif" alt="logo.gif" width="400" /> 
+<img align="right" src="https://raw.githubusercontent.com/23Savagee/23Savagee/main/assets/logo.gif" alt="logo.gif" width="350" /> 
 
 ```python
 ┌──(root@lypse)-[~/]
