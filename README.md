@@ -17,8 +17,7 @@ class Savage23
   def contact
     email = "23eternalenvy@proton.me"
     website = "blank"
-    instagram = "iluvmissu_"
-    return email, website, instagram
+    return email, website
   end
 end
 
