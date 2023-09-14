@@ -4,6 +4,8 @@
 <img src="https://i.imgur.com/vQcHyA4.jpeg" width="55%">
 </p>
 
+<img align="left" src="https://raw.githubusercontent.com/23Savagee/23Savagee/main/assets/logo.gif" alt="logo.gif" width="200" /> 
+
 ```python
 ┌──(root@lypse)-[~/]
 └─$ cat 23Savagee.rb
@@ -25,6 +27,7 @@ end
  ┌──(root@lypse)-[~/]
  └─$
 ```
+</p>
 
 ## <p align="center">Skills</p>
 
