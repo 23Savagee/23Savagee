@@ -1,8 +1,8 @@
-<h2 align="center">Welcome Lypse <img src="https://www.svgrepo.com/show/477144/coffee.svg" height="29px"></h2>
-
 <p align="center">
 <img src="https://i.imgur.com/vQcHyA4.jpeg" width="55%">
 </p>
+
+<h2 align="center">Welcome Lypse <img src="https://www.svgrepo.com/show/477144/coffee.svg" height="29px"></h2>
 
 <img align="right" src="https://raw.githubusercontent.com/23Savagee/23Savagee/main/assets/logo.gif" alt="logo.gif" width="359" /> 
 
