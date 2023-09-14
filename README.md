@@ -3,9 +3,6 @@
 <img src="https://i.imgur.com/vQcHyA4.jpeg" width="55%">
 </p>
 
-
-### aboutMe.rb:
-
 ```python
 ┌──(root@lypse)-[~/]
 └─$ cat 23Savagee.rb
