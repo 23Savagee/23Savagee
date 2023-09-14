@@ -5,6 +5,7 @@
 </p>
 
 <img align="left" src="https://raw.githubusercontent.com/23Savagee/23Savagee/main/assets/logo.gif" alt="logo.gif" width="200" /> 
+<p>&nbsp;</p>
 
 ```python
 ┌──(root@lypse)-[~/]
@@ -27,7 +28,7 @@ end
  ┌──(root@lypse)-[~/]
  └─$
 ```
-</p>
+
 
 ## <p align="center">Skills</p>
 
