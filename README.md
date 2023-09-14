@@ -8,7 +8,7 @@
 ┌──(root@lypse)-[~/]
 └─$ cat 23Savagee.rb
 
-class Savage23
+class 23Savage
   def initialize
     @Discord = "ilvvvx"
     @Instagram = "https://instagram.com/iluvmissu_"
