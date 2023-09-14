@@ -12,7 +12,7 @@
 
 class 23Savage
   def initialize
-    @Discord = "ilvvvx"
+    @Discord = "eternalenvy._"
     @Instagram = "https://instagram.com/iluvmissu_"
     @ask_me_about = ["Web Development", "Discord", "IoT"]
   end
