@@ -28,8 +28,7 @@ end
  └─$
 ```
 
-
-## <p align="center">Skills</p>
+<h2 align="center">Skills <img src="https://www.svgrepo.com/show/420329/anime-away-face.svg" height="29px"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
