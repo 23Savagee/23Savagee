@@ -1,3 +1,4 @@
+<h2 align="center">Welcome Lypse <img src="https://www.svgrepo.com/show/477144/coffee.svg" height="29px"></h2>
 
 <p align="center">
 <img src="https://i.imgur.com/vQcHyA4.jpeg" width="55%">
